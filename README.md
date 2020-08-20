@@ -7,7 +7,7 @@
   * Tweening library
 * Sam
 * Zad
- * Draw some game tiles
- * Make some maps
+  * Draw some game tiles
+  * Make some maps
 * Ridgeley
 * Ezra(?)
